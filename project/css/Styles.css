@@ -1,1 +1,12 @@
 /*Styles in here*/
+
+.container>div{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+body{
+    background-image: url("../img/SongListDisplay.png");
+    background-color: black;
+    background-repeat: no-repeat;
+}
